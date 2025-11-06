@@ -1,0 +1,10 @@
+1. diffrence in alert and event 
+2. how a alert is genrated 
+3. diffrent alert management platforms : SIEM , EDR/NDR ,SOAR , ITSM (short description of all)
+4. how to investigate a alert ... things to look for in a alert :
+date,time,name, veridict,assignee,severity,status,description,fields
+5. alert priotization : criical medium low 
+6.how to triage an alert :
+1.intial actions 
+2. investigation
+3.final actions
